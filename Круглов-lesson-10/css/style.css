@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+.header-menu {
+	width: 100vw;
+	height: 50px;
+	border: 10px solid #000;
+	background-color: #000;
+	position: fixed;
+	opacity: .9;
+}
+.header-menu a {
+	color: #fff;
+	text-decoration: none;
+	display: inline-block;
+	width: 300px;
+	text-align: center;
+	margin: 3px;
+}
+.header-menu a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+.header-text p {
+	position: relative;
+	margin-top: 300px;
+	
+}
